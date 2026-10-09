@@ -40,3 +40,45 @@ class MuhammadSaad {
 
   String get philosophy => "Build it clean. Make it smooth. Ship it fast. 🚀";
 }
+🌐 Live Portfolio: Explore my interactive showcase and live builds at saadportfoliio.netlify.app
+
+📱 Crafting scalable, high-performance Flutter applications across Android, iOS, and Web
+
+🎨 Integrating 3D interactive environments using Flutter Web, WebGL, and Three.js
+
+🤖 Engineering AI agents, prompt defenses, and machine learning pipelines (CNN/KNN)
+
+⚙️ Clean Git workflows: feature branching, PR reviews, CI/CD, and robust architecture patterns
+
+🛠️ Tech Stack & Arsenal
+💻 Languages & Core
+🗄️ Backend, Cloud & Storage
+🎨 3D, Design & Environments
+
+
+🚀 Featured Projects
+Project	Highlight & Description	Tech Stack
+🧥 CAVERO	Luxury jacket storefront with real-time 3D model interaction & 360° product inspection	Flutter Web Three.js
+🤖 Saad AI	Windows desktop autonomous agent: natural language file ops, app launches, voice commands	Flutter Gemini API SQLite
+🛡️ PromptGuard Firewall	AI security proxy protecting against prompt injections, jailbreaks & sensitive PII leaks	Flutter Firebase Security
+🧴 AI SkinCare (FYP)	Diagnostic dermatological classifier with custom CNN model & KNN product recommendation	Flutter CNN KNN
+⌚ Japan Watch & Optic Inventory	Offline-first high-volume retail management system for lenses & frames variation indexing	Flutter Hive Offline-First
+💸 EasyCash Wallet	Fintech wallet featuring fluid motion animations, security pin logic & live transaction feeds	Flutter Firebase
+🍔 Food Delivery Ecosystem	Dual-app architecture: Real-time customer delivery interface + Admin management dashboard	Flutter Firebase
+🏋️ AI Fitness Pro	Automated smart workout architect, sleep performance analytics, and dynamic supplement guide	Flutter AI Engine
+☕ Minimal Beans	Artisan coffee experience featuring interactive 3D bean & cup visualization	Flutter Web 3D Engine
+💼 Work Experience
+Plaintext
+🟢 Oct 2026 - Present  │ Full-Stack Website Developer   │ TAC Studio
+🔵 Jun 2026 - Oct 2026 │ Web/Mobile App Developer (Int) │ ERS TECH
+🟣 Oct 2025 - Present  │ Freelance Flutter Engineer     │ Self-Employed
+🟡 Jun 2025 - Dec 2025 │ IT Support Officer             │ Avenzo
+📊 GitHub Analytics & Activity
+
+
+
+
+🤝 Let's Connect & Collaborate
+
+
+💬 Got an ambitious Flutter app, an interactive 3D web idea, or an AI concept? Let’s bring it to life.
