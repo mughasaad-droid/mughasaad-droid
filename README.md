@@ -15,6 +15,15 @@
 
 </div>
 
+<a href="https://saadportfoliio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Portfolio-saadportfoliio.netlify.app-00C6FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="status" />
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20PK-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://komarev.com/ghpvc/?username=mughasaad-droid&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="views" />
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
